@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Orange County, CA</h3>
 
 - 🌱 I’m currently learning about **Generative AI and React**
-- 🍵 Talk to me about **anything frontend related like page speed optimization and CSS animation**
+- 🍵 Talk to me about **anything frontend related like page speed optimization and CSS animations**
 - 📫 How to reach me **duyng19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,6 +16,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnguyen793&show_icons=true&locale=en&layout=compact" alt="dnguyen793" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnguyen793&" alt="dnguyen793" /></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+<h3 align="left">Random dev joke 😉</h3>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
