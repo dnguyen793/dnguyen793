@@ -18,5 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnguyen793&" alt="dnguyen793" /></p>
 
-<h3 align="left">My current reads:</h3>
- [Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=duyng93)
+![Jokes Card](https://readme-jokes.vercel.app/api)
