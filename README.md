@@ -19,6 +19,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnguyen793&" alt="dnguyen793" /></p>
 
 <h3 align="left">My current reads:</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@duyng93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@duyng93/0" alt="Recent article #1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@duyng93/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@duyng93/1" alt="Recent article #2"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@duyng93/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@duyng93/2" alt="Recent article #3"></a>
+ [Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=duyng93)
