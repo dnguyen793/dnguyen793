@@ -17,6 +17,76 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnguyen793&show_icons=true&locale=en&layout=compact" alt="dnguyen793" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 215.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 36 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                476 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+🌆 Daytime                1046 commits        ███████████░░░░░░░░░░░░░░   43.47 % 
+🌃 Evening                861 commits         █████████░░░░░░░░░░░░░░░░   35.79 % 
+🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Tuesday                  450 commits         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Wednesday                566 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Thursday                 469 commits         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Friday                   450 commits         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Saturday                 196 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Sunday                   16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               22 repos            █████████████████████░░░░   84.62 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/dnguyen793/dnguyen793/main/assets/bar_graph.png)
+
+
+ Last Updated on 25/04/2024 00:22:05 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Random dev joke 😉</h3>
