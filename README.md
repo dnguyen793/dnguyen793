@@ -10,7 +10,7 @@
 
 > 📦 215.2 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 36 Public Repositories 
  > 
@@ -38,7 +38,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2024 18:37:18 UTC
+ Last Updated on 02/05/2024 18:37:11 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
