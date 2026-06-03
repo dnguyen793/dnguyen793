@@ -1,16 +1,14 @@
-<h1 align="center">Hello, I'm Duy (Yui)</h1>
+<h1 align="center">Hello, I'm Duy (Pronounce like Yui)</h1>
 <h3 align="center">A passionate frontend developer from Orange County, CA</h3>
 
-- 🌱 I’m currently learning about **Generative AI and React**
-- 🍵 Talk to me about **anything frontend related like page speed optimization and CSS animations**
+- 🌱 I’m currently learning about **how GenAI works**.
+- 🍵 Talk to me about **anything frontend related and matcha**.
 - 📫 How to reach me **duyng19@gmail.com**
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
 > 📦 215.4 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
