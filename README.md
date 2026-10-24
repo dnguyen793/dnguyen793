@@ -6,6 +6,8 @@
 - 📫 How to reach me **duyng19@gmail.com**
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 215.5 kB Used in GitHub's Storage 
@@ -62,7 +64,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:35:24 UTC
+ Last Updated on 24/10/2026 21:03:59 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
